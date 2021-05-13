@@ -1,0 +1,118 @@
+/* Arabic UI Display */
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/5e69431187682a22147bcafa89c6c0450379a94bf08c28112bfbb30a0bd2608a.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/166689003fc997b81409d9a96d418c4ba9d64571593e0e98305923240bbd1077.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/cf1e4671d49f590654cd64ecd7b5603c0060e7e6fe50274a3e7bb37a36c987d7.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/c263cc871b5f5e64ecdc4b1d506462ab50155dc247af8c0f3732d5c091e78b91.otf")
+      format("opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/db75eef12f7d01a6e5da2413f1b5b5b0c2f4520e05db5f8ba69d4790b59d0a4d.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/f606ce9e330da8f551fbdcc7e267b0968b2cb496932d025c5da36ac4551b932d.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/36aff139a03baef560892ace63f4834d887381a7e04c87c7f77cd46392d42f54.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/f868b2f510399b0cfa18f6ecceb6fafafb60e9d0e79405d5e1d141669e06478e.otf")
+      format("opentype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/a75c2a353a9db0495b117f142c0efa491d82a10e05bb7b86d96a4273d173e130.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/0e8b77c01671e6d6aa128b25fe743bb877fc4e4a0d71d72719f4d1eda01b5dc1.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/bc6796e1839aff62a07240653ea889e50e3892487dc78a7f8ad962d713f35eab.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/22e15b0207c6c601937a6f45e0a864157f633365f531be31faa2ec7cbf679e27.otf")
+      format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/fc8471bd2b838866e817c9c2787d92a28da8979282746b34a8c6a1d8e805c49c.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/1253147e23b212172d6bf330258b03562a4c628f6d0f79e862c2aa68526139d4.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/338c1304de7a5feae458dd1e0384fd2b8301874b263778dd2b845437cd59a7d9.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/a62fb7f9ef902142e59548ac813e26e7c005f8f6f6c8bfc6cc8173e7a758cf64.otf")
+      format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/4580da12c780a019f3bfdb03a1c3aaed15c8dfc70b2d8fd57a7194964f9e4d0c.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/6bc70bfa4f0241f4149617078e0f59bfa8eb861aa703d1f0cfc5485f0faf6062.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/d571bdeb631c6e00089711fad897a705ccfeca9db3840c1a3ded4d3727ab9c0b.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/e70e85dea865b7c7750f2eb524060820989896320da398674fb4f77def39efd4.otf")
+      format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/8f9da9205c7239535eb352ee7defb982d055b23f9f4e0e64cc6ef255a7c36bc2.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/16dca7c4c6894ccc65016858ee3b1284f0d2b6487d33b60a91207741d29c181d.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/16d789dbbf142574298445c6ffb3ef2990c053befdefc5794d1d02ed558e8dd2.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/5c282dd0d9f85257df0a9f9267bfbc780a62abe949783a3464db862401ffb819.otf")
+      format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/cd2efb41534902a713839d3ede847497b0c4e89d6db548695f2a69f437eb15c3.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/8ae50db54c3b7844ef69a14533c706778a55bc440ec8836efa7621f708908130.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/a6921af35b8fec4d0ca7f2f29c957c204471b714df13f177ec1f375f44bc1531.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/3ee415bf1f4abe6a6c516b55625166ce1fd237fd6d6efc9a3e83bf6522a0e45d.otf")
+      format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/c45f9f4ddc7a63be7f4ad8a84efa314ec580aa57781bd0ecdfe9c038c4b07b13.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/2243f8381278ca8b7dabe7348d240be9b5c0a9b9e151e7e8581c79b4ef8a90a3.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/83cc6e1e86fd9d3560e827c0ac17407d334645bcc3e2033df2db4959117f638b.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/3c594a5fd72a9eff47f189287f0b232413fc15a272dc3b43cafbe1fc60e90224.otf")
+      format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arabic UI Display";
+  src: url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/bf2a12b734f4e59ca6b0550deadb610ea319f4cb8d6dbcdfc83f279df5cdfd4b.woff2")
+      format("woff2"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/58e739ffca700768f596ba3bfbcab892dfc0cb2429cd9d647db881ca3c409ba4.woff")
+      format("woff"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/381afdd82771363cf3b8916c13bdb897842c4f5af8cf9b3c5f4ae3fa6e653d94.ttf")
+      format("truetype"),
+    url("https://slowstab.github.io/addons/fonts/ArabicUIDisplay/5534f070531e148c76a87ae6c3cfc776d5d6e5eea66dcf7ce68bdc0bf33643fa.otf")
+      format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
